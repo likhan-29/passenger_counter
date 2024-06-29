@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://www.shutterstock.com/image-vector/people-commuting-subway-metro-station-260nw-2140643771.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1, h2 {
+    color:rgb(104, 94, 94);
+    
+}
+h1{
+    font-size: 50px;
+
+}
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(118, 204, 154);
+    font-weight: bold;
+    font-size: 20px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+#save-el{
+    color: rgb(104, 94, 94);
+    font-size: 30px;
+}
+
+
